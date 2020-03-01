@@ -1,4 +1,4 @@
-package com.example.item;
+package com.example.entities;
 
 
 import javax.persistence.*;
@@ -10,14 +10,20 @@ public class Item {
     @GeneratedValue(strategy=GenerationType.AUTO)
     private Integer id;
     private String name;
-    private Integer price;
+    private Float price;
 
     public Item() {
     }
 
-    public Item(String name, Integer price) {
+    public Item(String name, Float price) {
         this.name = name;
         this.price = price;
+    }
+
+    public Item(Item item) {
+        this.id = item.id;
+        this.name = item.name;
+        this.price = item.price;
     }
 
     public void setId(Integer id) {
@@ -28,8 +34,12 @@ public class Item {
         this.name = name;
     }
 
-    public void setPrice(Integer price) {
+    public void setPrice(Float price) {
         this.price = price;
+    }
+
+    public Float getPrice() {
+        return price;
     }
 
     @Override
