@@ -9,7 +9,7 @@ public class Product {
 
     public Product() {
     }
-    public Product(Integer id, String name, double price) {
+    public Product(Integer id, String name, double price) { // класс конкретного продукта
         this.id = id;
         this.name = name;
         this.price = price;

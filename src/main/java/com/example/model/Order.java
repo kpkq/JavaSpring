@@ -3,11 +3,11 @@ package com.example.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Order {
+public class Order { // класс для заказа. формируется пользователем
 
-    private Integer id;
-    private double total;
-    private List<Product> itemList = new ArrayList<Product>();
+    private int id;  // id заказа
+    private double total;   // общая стоимость
+    private List<Product> itemList = new ArrayList<Product>();  // список покупок
 
     public Order() {
     }
