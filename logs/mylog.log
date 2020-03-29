@@ -1,0 +1,353 @@
+2020-03-29 01:25:42.808  INFO 15340 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 15340 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 01:25:42.814  INFO 15340 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 01:25:42.893  INFO 15340 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 01:25:42.904  INFO 15340 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 01:25:44.737  INFO 15340 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 01:25:44.750  INFO 15340 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 01:25:44.751  INFO 15340 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 01:25:44.899  INFO 15340 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 01:25:44.900  INFO 15340 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1995 ms
+2020-03-29 01:25:45.442  INFO 15340 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 01:25:45.488  INFO 15340 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 01:25:45.688  INFO 15340 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 01:25:45.706  INFO 15340 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 01:25:45.721  INFO 15340 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 01:25:45.972  INFO 15340 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 01:25:45.977  INFO 15340 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.649 seconds (JVM running for 5.262)
+2020-03-29 14:45:06.100  INFO 18404 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 18404 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 14:45:06.112  INFO 18404 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 14:45:06.248  INFO 18404 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 14:45:06.248  INFO 18404 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 14:45:10.573  INFO 18404 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 14:45:10.577  INFO 18404 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 14:45:10.593  INFO 18404 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 14:45:10.765  INFO 18404 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 14:45:10.765  INFO 18404 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4517 ms
+2020-03-29 14:45:11.617  INFO 18404 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 14:45:11.711  INFO 18404 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 14:45:12.011  INFO 18404 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 14:45:12.047  INFO 18404 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 14:45:12.053  INFO 18404 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 14:45:12.571  INFO 18404 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 14:45:12.579  INFO 18404 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 7.293 seconds (JVM running for 9.835)
+2020-03-29 14:45:27.397  INFO 18404 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 14:45:27.401  INFO 18404 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 14:45:27.425  INFO 18404 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 23 ms
+2020-03-29 14:45:50.888  WARN 18404 --- [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 14:47:33.026  INFO 7288 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 7288 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 14:47:33.031  INFO 7288 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 14:47:33.117  INFO 7288 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 14:47:33.117  INFO 7288 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 14:47:35.068  INFO 7288 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 14:47:35.078  INFO 7288 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 14:47:35.078  INFO 7288 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 14:47:35.202  INFO 7288 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 14:47:35.217  INFO 7288 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2100 ms
+2020-03-29 14:47:35.690  INFO 7288 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 14:47:35.769  INFO 7288 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 14:47:35.983  INFO 7288 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 14:47:36.001  INFO 7288 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 14:47:36.032  INFO 7288 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 14:47:36.515  INFO 7288 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 14:47:36.522  INFO 7288 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 4.08 seconds (JVM running for 6.75)
+2020-03-29 14:49:02.584  INFO 7288 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 14:49:02.588  INFO 7288 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 14:49:02.609  INFO 7288 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 21 ms
+2020-03-29 14:49:02.691  WARN 7288 --- [http-nio-8080-exec-1] com.example.exceptions.mainHandler       : Sun Mar 29 14:49:02 MSK 2020: Not found product with name: 1. Request URL: http://localhost:8080/admin/1
+2020-03-29 14:49:02.741  WARN 7288 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.getOne(java.lang.String) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=1] ]
+2020-03-29 15:07:40.318  INFO 2744 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 2744 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:07:40.321  INFO 2744 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:07:40.402  INFO 2744 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:07:40.402  INFO 2744 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:07:42.004  INFO 2744 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:07:42.010  INFO 2744 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:07:42.010  INFO 2744 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:07:42.172  INFO 2744 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:07:42.172  INFO 2744 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1769 ms
+2020-03-29 15:07:42.702  INFO 2744 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:07:42.773  INFO 2744 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:07:43.004  INFO 2744 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:07:43.006  INFO 2744 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:07:43.028  INFO 2744 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:07:43.375  INFO 2744 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:07:43.375  INFO 2744 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.542 seconds (JVM running for 5.345)
+2020-03-29 15:08:27.497  INFO 2744 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:08:27.501  INFO 2744 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:08:27.535  INFO 2744 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 34 ms
+2020-03-29 15:08:27.664  WARN 2744 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:10:31.315  WARN 2744 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:10:35.875  WARN 2744 --- [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:40:43.915  INFO 16568 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 16568 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:40:43.922  INFO 16568 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:40:43.994  INFO 16568 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:40:43.995  INFO 16568 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:40:45.698  INFO 16568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:40:45.707  INFO 16568 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:40:45.707  INFO 16568 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:40:45.839  INFO 16568 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:40:45.839  INFO 16568 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1844 ms
+2020-03-29 15:40:46.296  INFO 16568 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:40:46.340  INFO 16568 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:40:46.590  INFO 16568 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:40:46.613  INFO 16568 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:40:46.631  INFO 16568 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:40:47.078  INFO 16568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:40:47.078  INFO 16568 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.616 seconds (JVM running for 5.036)
+2020-03-29 15:40:52.713  INFO 16568 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:40:52.716  INFO 16568 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:40:52.736  INFO 16568 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2020-03-29 15:40:52.872  WARN 16568 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:41:03.949  WARN 16568 --- [http-nio-8080-exec-2] com.example.exceptions.mainHandler       : Sun Mar 29 15:41:03 MSK 2020: Not found product with name: 1. Request URL: http://localhost:8080/admin/1
+2020-03-29 15:41:03.957  WARN 16568 --- [http-nio-8080-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.getOne(java.lang.String) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=1] ]
+2020-03-29 15:41:14.142  WARN 16568 --- [http-nio-8080-exec-3] com.example.exceptions.mainHandler       : Sun Mar 29 15:41:14 MSK 2020: Not found product with name: 1221. Request URL: http://localhost:8080/admin/1221
+2020-03-29 15:41:14.145  WARN 16568 --- [http-nio-8080-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.getOne(java.lang.String) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=1221] ]
+2020-03-29 15:45:05.776  INFO 20616 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 20616 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:45:05.781  INFO 20616 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:45:05.877  INFO 20616 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:45:05.878  INFO 20616 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:45:07.565  INFO 20616 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:45:07.582  INFO 20616 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:45:07.582  INFO 20616 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:45:07.736  INFO 20616 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:45:07.736  INFO 20616 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1857 ms
+2020-03-29 15:45:08.304  INFO 20616 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:45:08.390  INFO 20616 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:45:08.598  INFO 20616 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:45:08.617  INFO 20616 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:45:08.639  INFO 20616 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:45:08.904  INFO 20616 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:45:08.913  INFO 20616 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.623 seconds (JVM running for 5.124)
+2020-03-29 15:45:36.784  INFO 20616 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:45:36.788  INFO 20616 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:45:36.808  INFO 20616 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2020-03-29 15:45:36.986  WARN 20616 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:47:14.498  INFO 19936 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 19936 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:47:14.502  INFO 19936 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:47:14.569  INFO 19936 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:47:14.580  INFO 19936 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:47:16.297  INFO 19936 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:47:16.308  INFO 19936 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:47:16.309  INFO 19936 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:47:16.422  INFO 19936 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:47:16.423  INFO 19936 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1843 ms
+2020-03-29 15:47:16.961  INFO 19936 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:47:17.049  INFO 19936 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:47:17.265  INFO 19936 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:47:17.265  INFO 19936 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:47:17.286  INFO 19936 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:47:17.564  INFO 19936 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:47:17.564  INFO 19936 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.541 seconds (JVM running for 5.199)
+2020-03-29 15:47:24.034  INFO 19936 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:47:24.036  INFO 19936 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:47:24.047  INFO 19936 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2020-03-29 15:47:24.198  WARN 19936 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:49:19.399  INFO 18964 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 18964 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:49:19.403  INFO 18964 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:49:19.484  INFO 18964 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:49:19.497  INFO 18964 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:49:21.064  INFO 18964 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:49:21.073  INFO 18964 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:49:21.073  INFO 18964 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:49:21.213  INFO 18964 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:49:21.213  INFO 18964 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1716 ms
+2020-03-29 15:49:21.707  INFO 18964 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:49:21.765  INFO 18964 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:49:21.948  INFO 18964 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:49:21.965  INFO 18964 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:49:21.984  INFO 18964 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:49:22.247  INFO 18964 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:49:22.252  INFO 18964 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.343 seconds (JVM running for 4.912)
+2020-03-29 15:49:28.715  INFO 18964 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:49:28.718  INFO 18964 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:49:28.737  INFO 18964 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2020-03-29 15:49:28.832  WARN 18964 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:50:01.965  INFO 12388 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 12388 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:50:01.970  INFO 12388 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:50:02.041  INFO 12388 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:50:02.041  INFO 12388 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:50:03.682  INFO 12388 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:50:03.687  INFO 12388 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:50:03.687  INFO 12388 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:50:03.832  INFO 12388 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:50:03.832  INFO 12388 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1791 ms
+2020-03-29 15:50:04.336  INFO 12388 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:50:04.382  INFO 12388 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:50:04.584  INFO 12388 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:50:04.585  INFO 12388 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:50:04.609  INFO 12388 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:50:04.893  INFO 12388 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:50:04.893  INFO 12388 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.403 seconds (JVM running for 5.168)
+2020-03-29 15:50:08.702  INFO 12388 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:50:08.706  INFO 12388 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:50:08.721  INFO 12388 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2020-03-29 15:50:08.921  WARN 12388 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:50:11.677  WARN 12388 --- [http-nio-8080-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:51:44.826  INFO 15204 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 15204 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 15:51:44.830  INFO 15204 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 15:51:44.891  INFO 15204 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 15:51:44.891  INFO 15204 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 15:51:46.639  INFO 15204 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 15:51:46.651  INFO 15204 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 15:51:46.659  INFO 15204 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 15:51:46.804  INFO 15204 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 15:51:46.804  INFO 15204 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1904 ms
+2020-03-29 15:51:47.222  INFO 15204 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 15:51:47.262  INFO 15204 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 15:51:47.425  INFO 15204 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 15:51:47.434  INFO 15204 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 15:51:47.460  INFO 15204 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 15:51:47.729  INFO 15204 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 15:51:47.739  INFO 15204 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.367 seconds (JVM running for 4.787)
+2020-03-29 15:51:55.968  INFO 15204 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 15:51:55.972  INFO 15204 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 15:51:55.993  INFO 15204 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 20 ms
+2020-03-29 15:51:56.163  WARN 15204 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 15:51:57.397  WARN 15204 --- [http-nio-8080-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'a': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 2, column: 11]]
+2020-03-29 16:18:58.018  INFO 15536 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 15536 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 16:18:58.021  INFO 15536 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 16:18:58.113  INFO 15536 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 16:18:58.114  INFO 15536 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 16:18:59.890  INFO 15536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 16:18:59.896  INFO 15536 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 16:18:59.896  INFO 15536 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 16:19:00.043  INFO 15536 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 16:19:00.043  INFO 15536 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1928 ms
+2020-03-29 16:19:00.495  INFO 15536 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 16:19:00.554  INFO 15536 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 16:19:00.721  INFO 15536 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 16:19:00.729  INFO 15536 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 16:19:00.742  INFO 15536 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 16:19:00.999  INFO 15536 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 16:19:00.999  INFO 15536 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.445 seconds (JVM running for 5.078)
+2020-03-29 16:19:24.749  INFO 15536 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 16:19:24.755  INFO 15536 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 16:19:24.774  INFO 15536 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2020-03-29 16:19:24.931  WARN 15536 --- [http-nio-8080-exec-1] com.example.exceptions.mainHandler       : JSON parse error. URL: http://localhost:8080/admin
+2020-03-29 16:19:24.981  WARN 15536 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unrecognized token 'vf': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'vf': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: (PushbackInputStream); line: 4, column: 15]]
+2020-03-29 16:21:26.913  WARN 15536 --- [http-nio-8080-exec-2] com.example.exceptions.mainHandler       : JSON parse error. URL: http://localhost:8080/admin
+2020-03-29 16:21:26.914  WARN 15536 --- [http-nio-8080-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('1' (code 49)): was expecting double-quote to start field name; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('1' (code 49)): was expecting double-quote to start field name
+ at [Source: (PushbackInputStream); line: 2, column: 2]]
+2020-03-29 16:23:41.358  WARN 15536 --- [http-nio-8080-exec-3] com.example.exceptions.mainHandler       : Sun Mar 29 16:23:41 MSK 2020: Not found product with name: 1. Request URL: http://localhost:8080/admin/1
+2020-03-29 16:23:41.362  WARN 15536 --- [http-nio-8080-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.update(java.lang.String,com.example.model.Product) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=1],
+[1] [type=com.example.model.Product] [value=com.example.model.Product@3c0b8cd1] ]
+2020-03-29 16:23:50.751  WARN 15536 --- [http-nio-8080-exec-4] com.example.exceptions.mainHandler       : Sun Mar 29 16:23:50 MSK 2020: Not found product with name: item1. Request URL: http://localhost:8080/admin/item1
+2020-03-29 16:23:50.752  WARN 15536 --- [http-nio-8080-exec-4] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.update(java.lang.String,com.example.model.Product) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=item1],
+[1] [type=com.example.model.Product] [value=com.example.model.Product@78138a14] ]
+2020-03-29 16:24:32.480  WARN 15536 --- [http-nio-8080-exec-6] com.example.exceptions.mainHandler       : Sun Mar 29 16:24:32 MSK 2020: Not found product with name: item2. Request URL: http://localhost:8080/admin/item2
+2020-03-29 16:24:32.483  WARN 15536 --- [http-nio-8080-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.update(java.lang.String,com.example.model.Product) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=item2],
+[1] [type=com.example.model.Product] [value=com.example.model.Product@575819d] ]
+2020-03-29 16:25:01.257  INFO 14568 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 14568 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 16:25:01.262  INFO 14568 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 16:25:01.338  INFO 14568 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 16:25:01.347  INFO 14568 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 16:25:03.112  INFO 14568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 16:25:03.128  INFO 14568 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 16:25:03.128  INFO 14568 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 16:25:03.323  INFO 14568 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 16:25:03.323  INFO 14568 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1976 ms
+2020-03-29 16:25:03.871  INFO 14568 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 16:25:03.932  INFO 14568 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 16:25:04.088  INFO 14568 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 16:25:04.097  INFO 14568 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 16:25:04.112  INFO 14568 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 16:25:04.345  INFO 14568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 16:25:04.345  INFO 14568 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.537 seconds (JVM running for 4.88)
+2020-03-29 16:26:31.273  INFO 21468 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 21468 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 16:26:31.278  INFO 21468 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 16:26:31.355  INFO 21468 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 16:26:31.356  INFO 21468 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 16:26:32.814  INFO 21468 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 16:26:32.828  INFO 21468 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 16:26:32.828  INFO 21468 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 16:26:33.003  INFO 21468 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 16:26:33.003  INFO 21468 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1635 ms
+2020-03-29 16:26:33.480  INFO 21468 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 16:26:33.547  INFO 21468 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 16:26:33.738  INFO 21468 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 16:26:33.754  INFO 21468 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 16:26:33.784  INFO 21468 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 16:26:34.044  INFO 21468 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 16:26:34.052  INFO 21468 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.213 seconds (JVM running for 4.688)
+2020-03-29 16:28:47.031  INFO 21468 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 16:28:47.037  INFO 21468 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 16:28:47.058  INFO 21468 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2020-03-29 16:28:47.227  WARN 21468 --- [http-nio-8080-exec-1] com.example.exceptions.mainHandler       : Sun Mar 29 16:28:47 MSK 2020: Not found product with name: item1. Request URL: http://localhost:8080/admin/item1
+2020-03-29 16:28:47.260  WARN 21468 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.update(java.lang.String,com.example.model.Product) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=item1],
+[1] [type=com.example.model.Product] [value=com.example.model.Product@c621076] ]
+2020-03-29 16:29:27.448  INFO 19472 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 19472 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 16:29:27.456  INFO 19472 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 16:29:27.526  INFO 19472 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 16:29:27.534  INFO 19472 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 16:29:29.084  INFO 19472 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 16:29:29.095  INFO 19472 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 16:29:29.095  INFO 19472 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 16:29:29.250  INFO 19472 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 16:29:29.250  INFO 19472 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1716 ms
+2020-03-29 16:29:29.750  INFO 19472 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 16:29:29.816  INFO 19472 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 16:29:30.009  INFO 19472 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 16:29:30.010  INFO 19472 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 16:29:30.035  INFO 19472 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 16:29:30.266  INFO 19472 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 16:29:30.266  INFO 19472 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.253 seconds (JVM running for 4.736)
+2020-03-29 16:30:30.409  INFO 19472 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 16:30:30.415  INFO 19472 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 16:30:30.433  INFO 19472 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2020-03-29 16:30:30.515  WARN 19472 --- [http-nio-8080-exec-1] com.example.exceptions.mainHandler       : Sun Mar 29 16:30:30 MSK 2020: Not found product with name: item1. Request URL: http://localhost:8080/admin/item1
+2020-03-29 16:30:30.567  WARN 19472 --- [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.IllegalStateException: Invocation failure
+Controller [com.example.controllers.AdminRestController]
+Method [public com.example.model.Product com.example.controllers.AdminRestController.getOne(java.lang.String) throws com.example.exceptions.notFoundProductException] with argument values:
+ [0] [type=java.lang.String] [value=item1] ]
+2020-03-29 16:31:30.245  INFO 16624 --- [restartedMain] c.example.ServingWebContentApplication   : Starting ServingWebContentApplication on DESKTOP-NEE4C0E with PID 16624 (D:\4sem\JavaSpring\target\classes started by HP in D:\4sem\JavaSpring)
+2020-03-29 16:31:30.250  INFO 16624 --- [restartedMain] c.example.ServingWebContentApplication   : No active profile set, falling back to default profiles: default
+2020-03-29 16:31:30.343  INFO 16624 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-29 16:31:30.343  INFO 16624 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-29 16:31:31.875  INFO 16624 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-03-29 16:31:31.881  INFO 16624 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-29 16:31:31.881  INFO 16624 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-03-29 16:31:32.039  INFO 16624 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-29 16:31:32.041  INFO 16624 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1697 ms
+2020-03-29 16:31:32.835  INFO 16624 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-29 16:31:32.910  INFO 16624 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-29 16:31:33.116  INFO 16624 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-03-29 16:31:33.116  INFO 16624 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-03-29 16:31:33.133  INFO 16624 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-03-29 16:31:33.513  INFO 16624 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-29 16:31:33.525  INFO 16624 --- [restartedMain] c.example.ServingWebContentApplication   : Started ServingWebContentApplication in 3.769 seconds (JVM running for 5.435)
+2020-03-29 16:31:37.138  INFO 16624 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-29 16:31:37.141  INFO 16624 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-03-29 16:31:37.161  INFO 16624 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms

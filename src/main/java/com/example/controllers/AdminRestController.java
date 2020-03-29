@@ -2,7 +2,9 @@ package com.example.controllers;
 
 import com.example.model.Product;
 import org.springframework.web.bind.annotation.*;
+import com.example.exceptions.notFoundProductException;
 
+import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,12 +12,11 @@ import java.util.List;
 @RequestMapping("admin")
 public class AdminRestController {        // класс, позволяющий создавать, удалять и изменять товары
     private List<Product> lst = new ArrayList<Product>();
-    private int counter = 3;
 
     public AdminRestController() {
-        lst.add(new Product(1, "hello", (float)151));
-        lst.add(new Product(2, "dfmbklkf", (float)1546));
-        lst.add(new Product(3, "hbjhbj", (float)18789));
+        lst.add(new Product(1, "item1", 151));
+        lst.add(new Product(2, "item2", 1546));
+        lst.add(new Product(3, "ite3", 8789));
     }
 
     @GetMapping
@@ -24,39 +25,23 @@ public class AdminRestController {        // класс, позволяющий 
     }
 
     @GetMapping("{name}")       // показывает список доступных товаров
-    public Product getOne(@PathVariable String name) {
-        int i = 0;
-        while (!lst.get(i).getName().equals(name)) {
-            if (i < lst.size() - 1) i++;
-            else break;
-        }
-        return lst.get(i);
+    public Product getOne(@PathVariable String name) throws notFoundProductException {
+        return lst.get(findInList.findPozByName(lst, name));
     }
 
     @PostMapping            // добавление нового товара
     public Product create(@RequestBody Product product) {
-        counter++;
         lst.add(product);
         return product;
     }
 
     @PutMapping("{name}")       // изменение существующего товара
-    public Product update(@PathVariable String name, @RequestBody Product product) {
-        int i = 0;
-        while(!lst.get(i).getName().equals(name)){
-            if (i < lst.size() - 1) i++;
-            else break;
-        }
-        lst.set(i, product);
+    public Product update(@PathVariable String name, @RequestBody Product product) throws notFoundProductException {
+        lst.set(findInList.findPozByName(lst, name), product);
         return product;
     }
     @DeleteMapping("{name}")        // удаление товара
-    public void delete(@PathVariable String name) {
-        int i = 0;
-        while(!lst.get(i).getName().equals(name)) {
-            if (i < lst.size() - 1) i++;
-            else break;
-        }
-        lst.remove(i);
+    public void delete(@PathVariable String name) throws notFoundProductException {
+        lst.remove(findInList.findPozByName(lst, name));
     }
 }
